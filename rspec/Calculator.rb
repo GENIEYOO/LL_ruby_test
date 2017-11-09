@@ -25,7 +25,7 @@ class Calculator
     end
     
     def subtract(one, two)
-        one + two
+        one - two
     end
     
     def divide(one, two)

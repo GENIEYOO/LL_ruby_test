@@ -5,3 +5,11 @@
 - day 1 : Ruby 입문,
    * Ruby 활용 Scraping : Nokogiri, HTTParty
   
+
+
+## 2. Week 1 : Ruby
+    * Ruby 활용 unit test 추가
+    
+    
+## 3. Week 1 : Ruby
+    * rspec
